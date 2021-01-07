@@ -1,2 +1,2 @@
 # learnGit
-start learning git and test 1399/10/18
+start learning git and test 7:12
