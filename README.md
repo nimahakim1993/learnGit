@@ -1,2 +1,2 @@
 # learnGit
-start learning git and test test test 
+start learning git and test
